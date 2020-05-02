@@ -20,13 +20,32 @@
 
 ----
 
-#### Your spending is my income, and vice versa
+### I'm talking about what is, not what should be
 
 ----
 
-#### Money is an IOU
+### Your spending is my income, and vice versa
 
-> Anyone can create money, the problem comes in getting it accepted
+__Spending comes first__, income follows
+
+----
+
+### Anyone can create money, the problem is getting it accepted
+
+![Hyman Minsky](./img/minsky.jpg)
+
+----
+
+### Economics is a social science
+
+Social science has a problem, you don't get to run large scale experiments (unless you have a navy)
+
+----
+
+### SS has only one proven tenet
+
+If a person's salary depends on them not understanding something, they'll find a way to do it
+> Upton Sinclair Principle
 
 ---
 
@@ -97,3 +116,59 @@ Put a list here
 * Mathematically rigourous, empirical
 * Currently dominant in intermediate micro/macro/trade
 * They've made a cult of math, no problem with spending period in the most extreme applications
+
+---
+
+## Let's remember some guys
+
+| Econ-type | What a normal day looks like |
+|:---------|:-------------|
+| Classical | Nothing, they're all dead      |
+| Marxist   | Criticizing capitalism         |
+| Freshwater| Writing papers, being rational |
+| Saltwater | Writing papers with crazy hard math |
+| Austrian  | Shitposting; no good scotsman |
+| Behavioural | Doing experiments, writing papers |
+
+----
+
+### Classical (Neoclassical)
+* David Ricardo
+* Adam Smith
+* Jean-Baptiste Say
+
+----
+
+### Marxist
+* John Roemer
+* David Harvey
+* Nikolai Bukharin
+
+----
+
+### Chicago School (Monetarists, Freshwater)
+* Milton Friedman
+* George Stigler
+* Eugene Fama
+
+----
+
+### Keynesian (New/Neo/Post-Keynesian)
+* Paul Samuelson
+* Joseph Stiglitz
+* Paul Krugman
+
+----
+
+### Austrian (fixed exchange rate view)
+* Carl Menger
+* Ludwig von Mises
+* Murray Rothbard
+* Friedrich Hayek (sorta)
+
+----
+
+### Behavioural
+* Dan Ariely
+* Robert Thaler
+* Amos Tversky and Daniel Kahneman
