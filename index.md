@@ -1,16 +1,21 @@
-# Economics Decoded
+# Economics in Times of Panic
 
 ### Shenzhen Philosophy Group
-#### April 9, 2020
+#### April 16, 2020
 
 ---
 
 ## Contents
 
-* Ground rules for the party
+* Why? What are we doing here?
 * Crises past
 * This crisis
 * Addendum (personal)
+
+---
+
+### Our new reality
+![This is Fine](./img/itsfine.jpg)
 
 ---
 
@@ -71,6 +76,11 @@ If a person's salary depends on them not understanding something, they'll find a
 
 ### Great Depression
 
+- Speculative bubble in securities, crash in 1929
+- Government pulls back spending post-crash
+- Fear, retreat to safety. People hoard gold
+- Gold rises in value, dis-inflation. Why spend today, when your money will buy more tomorrow?
+
 
 ----
 
@@ -78,13 +88,14 @@ If a person's salary depends on them not understanding something, they'll find a
 
 - Post-war institutions breakdown, capital strike
 - Strange combination of low growth, high inflation
+- Capital goes on strike, why invest when there's no possiblity of a return?
 
 ----
 
 ### 1998 Asian Crisis
 
 - Hot money comes in, hot money goes out
-- 
+- US deficits down, no worldwide safe asset
 
 ----
 
