@@ -11,6 +11,7 @@
 * A few things to think about
 * Crises past
 * Schools of Economic Thought
+* Our Simple Model
 * Addendum
 
 ---
@@ -73,16 +74,23 @@ If a person's salary depends on them not understanding something, they'll find a
 
 > Every debt is someone else's asset, and vice versa
 
+----
+
+### Our lives will be dominated by...
+
+- Global climate change
+- Wealth inequality
+
 ---
 
 ## Past crises
 
-| Episode            | Type | CofG   | Effect       | Winners |
-| -------- |-----|-------|-------------|---------:|
-| Panic of 1907 |Deflationary|US|Europe/Asia/Latin|Neoclassical |
-| Great Depression |Deflationary|US|World|Keynesian |
-| Oil Crisis |Stagflation|World|World|Freshwater |
-| 1998 DevMarket | Speculative | Japan | Asia/Europe/Latin | China    |
+| Episode            | CofG   | Effect       | Winners |
+| -------- |-------|-------------|---------:|
+| Panic of 1907 |US|Europe/Asia/Latin|Neoclassical |
+| Great Depression |US|World|Keynesian |
+| Oil Crisis |World|World|Freshwater |
+| 1998 Asian  | Japan | Asia/Europe/Latin | China    |
 
 ----
 
@@ -160,28 +168,9 @@ money scarcity (excess of discipline)
 
 ---
 
-## Schools of Economics
+# Reality Check
 
-Put a list here
-
-----
-
-### Austrian
-
-* Englightenment Liberals, golden age was between Napoleon and WWI
-* Hear no evil see no evil
-* Deep belief in the meritocracy, you hurt the poor by helping them
-* Against progressive taxation, not-Benthamites
-* Correctly point out the problems in the Bismarck welfare state
-
-----
-
-### Keynesian
-
-* Technocrats in the spirit of John Maynard Keynes
-* Mathematically rigourous, empirical
-* Currently dominant in intermediate micro/macro/trade
-* They've made a cult of math, no problem with spending period in the most extreme applications
+Remember the talk about the latest stock market crash. Was this "Business? Finance? Economy?". What's the connection between the stock market and the "real" economy?
 
 ---
 
@@ -238,3 +227,13 @@ Put a list here
 * Dan Ariely
 * Robert Thaler
 * Amos Tversky and Daniel Kahneman
+
+---
+
+### The greatest financial lesson of all time
+
+> MONOPOLY
+
+----
+
+# TWISTED TO MY ENDS
