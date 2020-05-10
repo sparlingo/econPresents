@@ -1,21 +1,34 @@
-# Economics in Times of Panic
+# Economics: the master of disaster
 
 ### Shenzhen Philosophy Group
-#### April 16, 2020
+#### May 16, 2020
 
 ---
 
 ## Contents
 
-* Why? What are we doing here?
+* The current situation
+* A few things to think about
 * Crises past
-* This crisis
-* Addendum (personal)
+* Schools of Economic Thought
+* Addendum
 
 ---
 
 ### Our new reality
+![Coronavirus effect](./img/coronaStocks.png)
+
+----
+
 ![This is Fine](./img/itsfine.jpg)
+
+----
+
+#### But what IS THAT?
+
+* Stock markets are hemmoraging cash, what does that mean?
+* What is the stock market?
+* Business? Finance? Economy?
 
 ---
 
@@ -26,6 +39,8 @@
 ----
 
 ### I'm talking about what is, not what should be
+
+> Positive statements vs normative statements
 
 ----
 
@@ -52,6 +67,12 @@ Social science has a problem, you don't get to run large scale experiments (unle
 If a person's salary depends on them not understanding something, they'll find a way to do it
 > Upton Sinclair Principle
 
+----
+
+### Trades are two-sided
+
+> Every debt is someone else's asset, and vice versa
+
 ---
 
 ## Past crises
@@ -63,14 +84,33 @@ If a person's salary depends on them not understanding something, they'll find a
 | Oil Crisis |Stagflation|World|World|Freshwater |
 | 1998 DevMarket | Speculative | Japan | Asia/Europe/Latin | China    |
 
-
 ----
 
 ### Panic of 1907
 
 - Financial innovation leads to speculative bubble
 - No central bank, no ability to add liquidity to a seized payments system
-- 
+- JP Morgan (Mr. Moneybags) bails out several trusts and forces bankers to pool funds to save the NYSE
+
+----
+
+### Lesson from 1907
+
+> Lack of liquidity kills you quick
+
+- Lec 4-5: The Survival Constraint
+
+----
+
+The Panic of 1907 originated with runs on a type of financial intermediary that was mostly outside the payments system, trust companies.  Similar to modern “shadow” banks, trust companies grew rapidly and became important financial intermediaries in the years prior to the crisis.1  Less regulated than commercial banks, trust companies were highly levered, held low cash reserve balances, and issued uninsured liabilities.
+
+- https://altcoopsys.org/wp-content/uploads/2016/11/Financial-Crisis-1907-Federal-Reserve-Act-JP-Morgan-Carola-Paper.pdf
+
+----
+
+### The fix is in
+
+1913 Federal Reserve act creates the US Federal Reserve banks, 12 regional banks that act as a "lender of last resort"
 
 ----
 
@@ -81,8 +121,23 @@ If a person's salary depends on them not understanding something, they'll find a
 - Fear, retreat to safety. People hoard gold
 - Gold rises in value, dis-inflation. Why spend today, when your money will buy more tomorrow?
 
+----
+
+### What about the Fed?
+
+- Fed actions were uncoordinated
+- Raised interest rates to kill stock speculation, leading to 
+money scarcity (excess of discipline)
+- Liquidationist policy: let bad institutions fail so that better insts can be created (Mellon)
 
 ----
+
+ From the fall of 1930 through the winter of 1933, the money supply fell by nearly 30 percent. The declining supply of funds reduced average prices by an equivalent amount. This deflation increased debt burdens; distorted economic decision-making; reduced consumption; increased unemployment; and forced banks, firms, and individuals into bankruptcy. 
+
+ - https://www.federalreservehistory.org/essays/great_depression
+
+----
+
 
 ### Oil Crisis
 
