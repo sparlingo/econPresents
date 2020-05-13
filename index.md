@@ -248,6 +248,50 @@ run we're all dead
 - Financial innovation blows up again, speculative bubble based on "irrational exuberance"
 
 ---
+### The greatest financial lesson of all time
+
+> MONOPOLY
+
+----
+# TWISTED TO MY ENDS
+
+----
+### Game 1: A deflationary crash with no central bank
+
+| Where | When | What's the problem? |
+|:------:|:---------:|:------------:|
+|US      | 1907      | Deflationary crash/speculation |
+
+Everyone gets property, and a random amount of cash. There's a shock! There's deflation, money is going UP in value.
+Stuff won't be higher in price later, stuff will be lower in price later AND your income is going down.
+
+----
+### Game 2: A deflationary crash with a central bank
+
+| Where | When | What's the problem? |
+|:------:|:---------:|:------------:|
+|US      | 1932      | Deflationary crash/speculation |
+
+Everyone is a bank! You have money inflows and money outflows, you pay out money in loans and receive money back (but some people are defaulting). Again - deflation! Banks have debt, and those debts are going UP in real value, the central bank can provide liquidity but can only pay out notes equal to 150% of it's gold.
+
+----
+### Game 3: An exchange rate crisis
+
+| Where | When | What's the problem? |
+|:------:|:---------:|:------------:|
+|Thailand| 1997      | Capital flight/broken peg |
+
+Everyone is a company! Hot money is coming in, everyone is buying Thai bonds are you are spending money on crazy
+projects. You have lots of Thai cash, but you owe money denominated in USD. The government breaks the exchange rate peg, your debts become crazy expensive in local currency. Sell everything before it's too late.
+
+----
+### Game 4: Everyone's 
+
+| Where | When | What's the problem? |
+|:------:|:---------:|:------------:|
+|US      | 1907      | Capital flight/broken peg |
+
+---
 # Reality Check
 
 Remember the talk about the latest stock market crash. Watch MSNBC and 
@@ -278,15 +322,7 @@ they'll say that "wealth is being destroyed", is that right?
 ----
 #### What's the purpose of all this stuff?
 
-With human nature being what it is: we are ultra-social primates with moral/cognitive empathy that dissipates as a function of social distance. We care about family, community, country, creed, and some vague notion of all being human, roughly in that order. What type of story do you need to tell in order to get a species that would be perfectly happy sitting on the beach eating coconuts in the majority of times when life is good, that they constantly need to be building amazing feats of technical brilliance to increase our hold over mother nature? What feeling do you need to put into people?
+With human nature being what it is: we are ultra-social primates with moral/cognitive empathy that dissipates as a function of social distance. We care about family, community, country, creed, and some vague notion of all being human, roughly in that order. What type of story do you need to tell in order to get people who have good technology allowing them to live the good life that they constantly need to kick mother nature in the face even more? What's the moral of the tale?
 
 ----
 # Panic / Complacency
-
----
-### The greatest financial lesson of all time
-
-> MONOPOLY
-
-----
-# TWISTED TO MY ENDS
