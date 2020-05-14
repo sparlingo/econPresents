@@ -143,8 +143,118 @@ The story is the thing. Let's look at one.
 ![Modern Econ Eras](./img/100year.png)
 
 ----
-### What divides these eras?
+### 1812 - 1937 (approx)
 
+* Economy is always at full-employment (model), defensible because of technology innovation
+* Laissez-faire, limited government intervention
+* Hard money (gold, cash redeemable)
+* Say's Law, supply creates an equal amount of demand. AS = AD. Uh-oh
+
+----
+### The problem with Say's Law
+
+* This is true in a barter economy 
+* I produce goats and I trade a goat for 4 ducks. If no one wants goats I 
+eat the goat and move to cows. No wasted production (more or less)
+* But this isn't a barter economy, it's a money economy
+* As the economy modernizes, production is not necessarily equal to buying power
+* We need banks!
+
+----
+### We need a theory of money
+
+* Gold (or silver...) imposes discipline on the economy, money is dear so use it wisely
+* In times of trouble (war), countries demand elasticity (complicated)
+* The textbook definition of money has 3 parts
+1. Unit of account
+2. Medium of exchange
+3. Store of value
+
+----
+### That's a start, banking?
+
+* Banks intermediate between people who have savings: depositors, and borrowers who want money to
+finance an expansion of their business, tech upgrade, etc
+* Banks make money on the spread - they pay their depositors 2% interest on the deposit, they charge 5% interest on the loan (simple model)
+* Bank balance sheet: assets are loans, deposits are liabilities. Assets - liabilities = net worth
+
+----
+### Back to our story
+
+* Early 20th century: banking is getting much more complicated!
+* Commercial banks have capital requirements (reserves, quality), new types of financial companies are growing in popularity and they're giving customers a great deal
+* Trusts! Give us your money, we invest it in the new sexy stock market and you'll get a big return!
+* FINANCIAL INNOVATION NEVER FAILS!
+
+----
+
+![1907 "Bankers Crash"](./img/1907crash.png)
+
+----
+### What's the effect?
+
+* (Repeat) Bank Balance sheet: Assets - liabilities = net worth
+* Trusts are important financial institutions, people have their savings there. If the assets drop far enough, the
+bank folds and you lose all/most of your money
+* Economic doctrine says: do nothing. Everything is assumed to be in equilibrium, and will surely return to equilbrium in no time. The theory isn't wrong, reality is wrong!
+
+----
+### System 1 - Classical
+
+* Classical economics is in the saddle
+* Starting to move away from gold-backed currency (US-1911(1971), England-1931, Germany-1931)
+* World is pretty globalized, people move around
+* Crises are quite common, public credit swamps the system (1873, 1907, 1929), no ability/theory to provide
+monetary expansion to ease deflationary debt spiral
+* The government shouldn't fix short-term shortfall in spending with fiscal policy, rational expectation theory (RET)
+
+----
+### What ends system 1?
+
+###### Fascism
+
+----
+### 1937 - 1977
+
+* We are now in the world that Keynes made
+* Full employment in nearly all advanced countries
+* Plenty of government spending on social welfare
+* Tax rates high; unionization high; boring banks
+* Globalization is down, economies are domestic
+* Capital is in a box
+* A chicken in every pot
+
+----
+![european social spending](./img/publicSpend.png)
+
+----
+### Sounds good right?
+
+Why aren't we in that system now?
+
+----
+### Capital goes on strike
+
+* Productivity - doing more with less. The growth in income is shared between the owners and the workers
+* Strong unions w/ tight labour markets. Worker's share of income is at all-time high
+* 1970s - Oil Crisis, Vietnam, Global South independence movements
+
+----
+### The center cannot hold
+
+* The post-War Bretton Woods institutions break
+* 1971 (finished by 1974) the US closes the gold window
+* Stagnation! High inflation, low/no growth economies
+* Is this inflation purely a monetary phenomenon?
+
+----
+### Inflation
+
+* Rising prices, have to give more money to get stuff
+* Lowers the value of savings (money) over time
+* All bad right?
+* Spending = Income. Low inflation provides an incentive to spend in the short term
+* Keynes = "In the long run we're all dead"
 
 ---
 ## Let's remember some guys
@@ -273,11 +383,6 @@ run we're all dead
 - US deficits down, no worldwide safe asset
 - Money goes to Asian seeking big returns, things start to wobble
 - Retreat to safety
-
-----
-### 2008 Great Financial Crisis
-
-- Financial innovation blows up again, speculative bubble based on "irrational exuberance"
 
 ---
 ### The greatest financial lesson of all time
