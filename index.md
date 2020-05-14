@@ -9,8 +9,9 @@
 * The sun comes up: The world of today
 * We plant some seeds
 * Our real back-breaking toil for the day
-* We sit on the back porch and just REMEMBER
+* We sit on the back porch and relax
 * Everything goes wrong
+* We find a solution
 * We harvest our plants: A simple econ model
 * Addendum
 
@@ -39,17 +40,32 @@
 ### There's just too much for me to cover here in two hours
 
 Economics is really a broad topic, look to some book recommendations at the end
-if you're interested
+if you're interested in learning more
 
 ----
-### I'm talking about what is, not what should be
+### Economics is inseparable from politics
+
+#### We can acknowledge that connection exists, but we are not here to talk about that topic
+
+----
+### I'm talking (mostly) about what is, not what should be
 
 > Positive statements vs normative statements
 
 ----
 ### Your spending is my income, and vice versa
 
-__Spending comes first__, income follows
+> If we all save more, we all earn less
+
+----
+### Your debt is my asset, and vice versa
+
+> Debts and assets (worldwide) sum to 0
+
+----
+## Money is payment, "thank you come again"
+
+### Credit is a promise to make payment. It's less good
 
 ----
 ### Anyone can create money, the problem is getting it accepted
@@ -64,13 +80,14 @@ Social science has a problem, you don't get to run large scale experiments (unle
 ----
 ### SS has only one proven tenet
 
-If a person's salary depends on them not understanding something, they'll find a way to do it
-> Upton Sinclair Principle
+> If a person's salary depends on them not understanding something, they'll find a way to do it
+
+Upton Sinclair Principle
 
 ----
-### Trades are two-sided
+### Yes there is math involved, but it's not physics
 
-> Every debt is someone else's asset, and vice versa
+Every action has a reaction, but Newton's Third Law does not apply. It's squishy.
 
 ----
 ### Some definitions
@@ -82,6 +99,7 @@ If a person's salary depends on them not understanding something, they'll find a
 * Stock - a partial share of company profits
 * Bond - a promise to repay money X at time Y
 * Interest rate - the cost of borrowing money
+* Aggregate - you sum all the things
 
 ---
 # Our Day's Labour
@@ -100,19 +118,33 @@ If a person's salary depends on them not understanding something, they'll find a
 | Macro | Micro |
 |:------|:------|
 | Domestic Economies  | Individual people/firms |
-| Empirical/Keynesian | Axiomatic/Neoclassical  |
+| Empirical/Keynesian-ish | Axiomatic/Neoclassical-ish  |
 | Y = C + I + G + (X-M) | R = P * Q; MC = MR    |
 | Aggregates          | Marginal                |
 | Zoomed-out          | Zoomed-in               |
 
 ----
-## Who are the actors
+## Who are the agents?
 
 * Households/individuals
 * Firms/companies
 * Governments
 * Banks
 * Other countries
+
+----
+## Let's set some bounds
+#### Today I'll be talking about the period between 1907 and 2007
+
+The story is the thing. Let's look at one.
+
+----
+### Dominant Modern Economics Eras
+![Modern Econ Eras](./img/100year.png)
+
+----
+### What divides these eras?
+
 
 ---
 ## Let's remember some guys
@@ -289,7 +321,7 @@ projects. You have lots of Thai cash, but you owe money denominated in USD. The 
 
 | Where | When | What's the problem? |
 |:------:|:---------:|:------------:|
-|US      | 1907      | Capital flight/broken peg |
+|Germany | 2008      |  |
 
 ---
 # Reality Check
