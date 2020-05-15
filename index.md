@@ -8,8 +8,8 @@
 
 * The sun comes up: The world of today
 * We plant some seeds
+* We gird our loins
 * Our real back-breaking toil for the day
-* We sit on the back porch and relax
 * Everything goes wrong
 * We find a solution
 * We harvest our plants: A simple econ model
@@ -102,6 +102,55 @@ Every action has a reaction, but Newton's Third Law does not apply. It's squishy
 * Aggregate - you sum all the things
 
 ---
+## Let's remember some guys
+
+| Econ-type | What a normal day looks like |
+|:---------|:-------------|
+| Classical | Nothing, they're all dead      |
+| Marxist   | Criticizing capitalism         |
+| Freshwater| Writing papers, being rational |
+| Saltwater | Writing papers with crazy hard math |
+| Austrian  | Shitposting; no good scotsman |
+| Behavioural | Doing experiments, writing papers |
+
+----
+### Classical (Neoclassical)
+* David Ricardo
+* Adam Smith
+* Jean-Baptiste Say
+
+----
+### Marxist
+* John Roemer
+* David Harvey
+* Nikolai Bukharin
+
+----
+### Chicago School (Monetarists, Freshwater)
+* Milton Friedman
+* George Stigler
+* Eugene Fama
+
+----
+### Keynesian (New/Neo/Post-Keynesian)
+* Paul Samuelson
+* Joseph Stiglitz
+* Paul Krugman
+
+----
+### Austrian (fixed exchange rate view)
+* Carl Menger
+* Ludwig von Mises
+* Murray Rothbard
+* Friedrich Hayek (sorta)
+
+----
+### Behavioural
+* Dan Ariely
+* Robert Thaler
+* Amos Tversky and Daniel Kahneman
+
+---
 # Our Day's Labour
 
 ## Conquer Econ
@@ -131,6 +180,11 @@ Every action has a reaction, but Newton's Third Law does not apply. It's squishy
 * Governments
 * Banks
 * Other countries
+
+----
+##### LA weather, sunny all the time
+
+![labour market](./img/stickyWages.png)
 
 ----
 ## Let's set some bounds
@@ -228,6 +282,16 @@ monetary expansion to ease deflationary debt spiral
 ![european social spending](./img/publicSpend.png)
 
 ----
+### OK Boomer
+
+* France -  Trente Glorieuses
+* US - America, Fuck Yeah!
+* Japan - Economic Miracle (teach your kids Japanese everyone)
+* UK - The Golden Age
+* Italy - il miracolo economico
+* Russia - 7th and 8th year plans (then stagnation)
+
+----
 ### Sounds good right?
 
 Why aren't we in that system now?
@@ -256,64 +320,107 @@ Why aren't we in that system now?
 * Spending = Income. Low inflation provides an incentive to spend in the short term
 * Keynes = "In the long run we're all dead"
 
----
-## Let's remember some guys
-
-| Econ-type | What a normal day looks like |
-|:---------|:-------------|
-| Classical | Nothing, they're all dead      |
-| Marxist   | Criticizing capitalism         |
-| Freshwater| Writing papers, being rational |
-| Saltwater | Writing papers with crazy hard math |
-| Austrian  | Shitposting; no good scotsman |
-| Behavioural | Doing experiments, writing papers |
+----
+![keynes vs classical](./img/keynestradition.png)
 
 ----
-### Classical (Neoclassical)
-* David Ricardo
-* Adam Smith
-* Jean-Baptiste Say
+![keynes investment quote](./img/keynesInvestment.jpg)
 
 ----
-### Marxist
-* John Roemer
-* David Harvey
-* Nikolai Bukharin
+### Keynes' ghost is put to bed
+
+* What runs the world: expectations runs the world!
+* However expectations are unmeasurable, subjective and unpredictable, so they are hard to model
+* 1970s capital stops investing at the same time as inflation is shooting to the sky
+* Central banks kill the inflation by raising interest rates to the roof
 
 ----
-### Chicago School (Monetarists, Freshwater)
-* Milton Friedman
-* George Stigler
-* Eugene Fama
+### What ends system 2?
+
+###### Thatcher, Reagan, Globalization
 
 ----
-### Keynesian (New/Neo/Post-Keynesian)
-* Paul Samuelson
-* Joseph Stiglitz
-* Paul Krugman
+#### Here we go again
+
+![Back to the Future](./img/future.jpg)
 
 ----
-### Austrian (fixed exchange rate view)
-* Carl Menger
-* Ludwig von Mises
-* Murray Rothbard
-* Friedrich Hayek (sorta)
+### Not junk bonds, high-yield bonds
+
+* US central bank has large role in world economy, head central banker is the new rock-star 
+* Inflationary expecations are broken by interest rates raised as high as ~15% in rich countries
+* Re-globalization of economies due to opening of China/Mexico
+* Marginal tax-rates cut especially for top earners
 
 ----
-### Behavioural
-* Dan Ariely
-* Robert Thaler
-* Amos Tversky and Daniel Kahneman
+
+![Central Bankers](./img/bankers.jpg)
+
+----
+### Globalization is the story
+
+* Capital has the whip hand once more
+* Inflation is going down, but interest rates are going down less quickly
+* Remember that stock market graph at the beginning?
+* Bonds were sexy in the 1980s, leveraged buy-outs
+* Bonds, Bonds? Not the stocks, not the stocks that I die for, you're asking about bonds?
+
+----
+### Remember system 1?
+
+* Financial innovations lead to a debt deflation and JP Morgan bails the system
+* This time we have the Fed, we have technology to move capital around every micro-second, and we're investing in capital goods all around the world
+* Monetary discipline? Who cares, the world is desparate for dollars
+
+----
+### Remember bonds?
+
+* Bonds are a fixed return security, you give me 98 and I'll pay you 100 next year
+* 1980s the rates are still high, but I'm not giving you equity
+* Greed is Good, but banks are boring
+
+----
+### I don't understand this world
+
+![80s Stocks](./img/80Stocks.PNG)
+
+----
+### Drexel-Burnham is selling magic
+
+* Junk bonds are the new magic money wand
+* Interest payments are tax deductible, dividend payments are not
+* Growing your company with banks is hard
+* Growing your company with debt is cool
+* Growing your company with equity is flexible
+
+----
+### Labour is in a box
+
+![elephant curve](./img/elephantCurve.png)
+
+----
+### I'm no longer talking economics, I'm talking finance
+
+* It's permanent crisis mode now
+* If you don't like your wage we'll move your job to Mexico
+* Corporate stucture is allowing innovation in what is essentially accounting fictions so that profits can be booked in offshore tax-havens
+* Lean and mean times, maybe we should cut social spending
+
+----
+### What ended this system?
+
+###### We bailed it out
 
 ---
 ## Past crises
 
-| Episode            | CofG   | Effect       | Winners |
+| Episode            | CofG   | Effect       | Winner |
 | -------- |-------|-------------|---------:|
 | Panic of 1907 |US|Europe/Asia/Latin|Neoclassical |
 | Great Depression |US|World|Keynesian |
 | Oil Crisis |World|World|Freshwater |
-| 1998 Asian  | Japan | Asia/Europe/Latin | China    |
+| 1998 Asian  | Japan | DevelopingM | China    |
+| 2008 GFC | US | World | Finance |
 
 ----
 ### Panic of 1907
@@ -421,13 +528,6 @@ Everyone is a bank! You have money inflows and money outflows, you pay out money
 Everyone is a company! Hot money is coming in, everyone is buying Thai bonds are you are spending money on crazy
 projects. You have lots of Thai cash, but you owe money denominated in USD. The government breaks the exchange rate peg, your debts become crazy expensive in local currency. Sell everything before it's too late.
 
-----
-### Game 4: Everyone's 
-
-| Where | When | What's the problem? |
-|:------:|:---------:|:------------:|
-|Germany | 2008      |  |
-
 ---
 # Reality Check
 
@@ -459,7 +559,25 @@ they'll say that "wealth is being destroyed", is that right?
 ----
 #### What's the purpose of all this stuff?
 
-With human nature being what it is: we are ultra-social primates with moral/cognitive empathy that dissipates as a function of social distance. We care about family, community, country, creed, and some vague notion of all being human, roughly in that order. What type of story do you need to tell in order to get people who have good technology allowing them to live the good life that they constantly need to kick mother nature in the face even more? What's the moral of the tale?
+With human nature being what it is: we are ultra-social primates with moral/cognitive empathy that dissipates as a function of social distance. We care about family, community, country, creed, and some vague notion of all being human, roughly in that order. What type of story do you need to tell in order to get people who have good technology allowing them to live the good life that they constantly need to kick mother nature (and your neighbour) in the face even more? What's the moral of the tale?
 
 ----
 # Panic / Complacency
+
+---
+## Addendum
+
+----
+## C.P. Snow, The Two Cultures
+
+![cp snow](./img/cp_snow.jpg)
+
+----
+"The non-scientists have a rooted impression that the scientists are shallowly
+optimistic, unaware of man's condition. On the other hand, the scientists believe
+that the literary intellectuals are totally lacking in foresight, peculiarly
+unconcerned with their brother men, in a deep sense anti-intellectual, anxious to
+restrict both art and thought to the existential moment. And so on. Anyone with
+a mild talent for invective could produce this kind of subterranean
+back-chat. On each side there is some of it which is not entirely baseless. It is all
+destructive. Much of it rests on misinterpretations which are dangerous."
