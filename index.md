@@ -90,6 +90,11 @@ Upton Sinclair Principle
 Every action has a reaction, but Newton's Third Law does not apply. It's squishy.
 
 ----
+### The language sets the field of battle
+
+Don't debate economics using finance language, you'll lose
+
+----
 ### Some definitions
 
 * GDP - market value of goods and services
@@ -156,6 +161,15 @@ Every action has a reaction, but Newton's Third Law does not apply. It's squishy
 ## Conquer Econ
 
 ###### Eeeppp
+----
+## Just another day of shit-posting on Reddit
+
+Oh look, the topic is economics, I know a lot about economics - I OWN STOCK! I have a business degree.
+
+----
+
+![reddit /r/canada](./img/reddit.png)
+
 ----
 ### So we crack open our textbook, what do we find?
 
@@ -566,6 +580,32 @@ With human nature being what it is: we are ultra-social primates with moral/cogn
 
 ---
 ## Addendum
+
+----
+### Podcasts
+* NPR Planet Money
+* Freakonomics
+
+### Youtube
+* CrashCourse Economics
+* New Economic Thinking (INet)
+
+----
+## Books/Authors
+
+- __Mark Blyth__: political-economist. Austerity, Angrynomics. Plenty on youtube
+- __Thomas Piketty__: historical-economist. Capital in the 21st Century, look up TED talks
+- __David Graeber__: anthropoligist. Debt: The First 5000 Years, Bullshit Jobs
+- __Ha Joon-Chang__: economist. 23 Things, Bad Samaritans
+- __Milton Friendman__: economist. Free to Choose (book and TV series)
+
+----
+### What I was reading/watching while making this
+
+- Robert Skidelsky - Money and Government
+- Coursera: Money and Banking (be careful)
+- arXiv.org
+- Coursera: The Moral Foundations of Politics (Bentham, Marx, Smith, Mill)
 
 ----
 ## C.P. Snow, The Two Cultures
